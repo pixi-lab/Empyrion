@@ -25,3 +25,5 @@ Example: D:\Games\Epic Games\EmpyrionGalacticSurvKqTWC\Saves\Blueprints\70602413
 ![preview](https://github.com/pixi-lab/Empyrion/blob/main/SpaceBeetle%20(extended).jpg)
 
 ![preview](https://github.com/pixi-lab/Empyrion/blob/main/SpaceBeetleBaby%20(medic).jpg)
+
+![preview](https://github.com/pixi-lab/Empyrion/blob/main/SpaceBeetleWarp%20(extend).jpg)
